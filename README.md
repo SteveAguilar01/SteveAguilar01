@@ -7,7 +7,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Steve Aguilar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Steve Aguilar | LinkedIn" width="22px" src="www.linkedin.com/in/steve-aguilar-09878b142" />][linkedin]
 
 
 [twitter]: https://twitter.com/joshmadakor
