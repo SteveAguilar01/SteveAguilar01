@@ -7,9 +7,8 @@
 
 <h2> 🤳 Connect with me:</h2>
   <p>
-  <a href="www.linkedin.com/in/SteveAguilar01" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-    [linkedin]: https://linkedin.com/in/joshmadakor
+    [LinkedIn]: www.linkedin.com/in/SteveAguilar01
   </a> &nbsp; 
 
 <!--
