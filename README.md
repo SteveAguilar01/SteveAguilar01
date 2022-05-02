@@ -8,6 +8,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 <img align="left" alt="Steve Aguilar | LinkedIn" width="130px" src="www.linkedin.com/in/steve-aguilar-09878b142" />
+  <p><a href="www.linkedin.com/in/steve-aguilar-09878b142">LinkedIn</a></p>
 
 <!--
 **SteveAguilar01/SteveAguilar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
