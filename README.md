@@ -1,4 +1,4 @@
-<h1>Hi, I'm Steve, thanks for visiting my Github! <br/><a href="https://github.com/SteveAguilar01">Scripting/Coding</a>
+<h1>Hi, I'm Steve, thanks for visiting my Github! <br/>
 
 <h2>👨‍💻 Projects:</h2>
   
