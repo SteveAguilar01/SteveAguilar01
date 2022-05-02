@@ -13,7 +13,7 @@
 <h4>🤳 Connect with me:</h4>
   <p>
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
-    [LinkedIn]: www.linkedin.com/in/SteveAguilar01
+    [LinkedIn]: https://www.linkedin.com/in/SteveAguilar01
   </a> &nbsp;
 
 <!--
