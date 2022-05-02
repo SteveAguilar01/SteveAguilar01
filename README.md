@@ -4,12 +4,18 @@
 
 - <b>Python</b>
   - [Automate the Boring Stuff with Python (Course)](https://github.com/SteveAguilar01/Automate)
+  
+<h3>:page_with_curl:<h3>
 
-<h2> 🤳 Connect with me:</h2>
+<h4> 🤳 Connect with me:</h4>
   <p>
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
     [LinkedIn]: www.linkedin.com/in/SteveAguilar01
   </a> &nbsp; 
+
+
+
+
 
 <!--
 **SteveAguilar01/SteveAguilar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
