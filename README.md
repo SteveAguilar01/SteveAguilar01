@@ -1,13 +1,17 @@
-<h1>Hi, I'm Steve! <br/><a href="https://github.com/SteveAguilar01">Scripting/Coding</a>
+<h1>Hi, I'm Steve, thanks for visiting my Github! <br/><a href="https://github.com/SteveAguilar01">Scripting/Coding</a>
 
 <h2>👨‍💻 Projects:</h2>
-
+  
 - <b>Python</b>
   - [Automate the Boring Stuff with Python (Course)](https://github.com/SteveAguilar01/Automate)
   
-<h3>:page_with_curl:<h3>
+<h3>📃 Certifications:<h3>
+  
+  - [Cisco Certified Network Associate (CCNA)]
+  - [CompTIA SY0-601 Security+ CE]
+  
 
-<h4> 🤳 Connect with me:</h4>
+<h4>🤳 Connect with me:</h4>
   <p>
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
     [LinkedIn]: www.linkedin.com/in/SteveAguilar01
