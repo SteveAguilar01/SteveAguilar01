@@ -1,20 +1,19 @@
-<h1>Hi, I'm Steve, thanks for visiting my GitHub! <br/>
+<h1>Hi, I'm Steve, thanks for visiting my GitHub!</h1>
 
 <h2>👨‍💻 Projects:</h2>
   
-- <b>Python</b>
-  - [Automate the Boring Stuff with Python (Course)](https://github.com/SteveAguilar01/Automate)
+  - <b>Python</b>
+    - [Automate the Boring Stuff with Python](https://github.com/SteveAguilar01/Automate)
   
-<h3>📃 Certifications:<h3>
-  
-  - [Cisco Certified Network Associate (CCNA)]
-  - [CompTIA SY0-601 Security+ CE]
+<h3>📃 Certifications:</h3>
+
+  - Cisco Certified Network Associate (CCNA)
+  - CompTIA SY0-601 Security+ CE
   
 <h4>🤳 Connect with me:</h4>
   <p>
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
     [LinkedIn]: https://www.linkedin.com/in/SteveAguilar01
-  </a> &nbsp;
 
 <!--
 **SteveAguilar01/SteveAguilar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
