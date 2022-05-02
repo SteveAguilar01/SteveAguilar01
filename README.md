@@ -6,9 +6,11 @@
   - [Automate the Boring Stuff with Python (Course)](https://github.com/SteveAguilar01/Automate)
 
 <h2> 🤳 Connect with me:</h2>
-
-<img align="left" alt="Steve Aguilar | LinkedIn" width="130px" src="www.linkedin.com/in/SteveAguilar01"/>
-  [linkedin]: www.linkedin.com/in/SteveAguilar01
+  <p>
+  <a href="www.linkedin.com/in/SteveAguilar01" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    [linkedin]: https://linkedin.com/in/joshmadakor
+  </a> &nbsp; 
 
 <!--
 **SteveAguilar01/SteveAguilar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
