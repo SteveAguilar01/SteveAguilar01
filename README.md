@@ -10,16 +10,11 @@
   - [Cisco Certified Network Associate (CCNA)]
   - [CompTIA SY0-601 Security+ CE]
   
-
 <h4>🤳 Connect with me:</h4>
   <p>
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
     [LinkedIn]: www.linkedin.com/in/SteveAguilar01
-  </a> &nbsp; 
-
-
-
-
+  </a> &nbsp;
 
 <!--
 **SteveAguilar01/SteveAguilar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
