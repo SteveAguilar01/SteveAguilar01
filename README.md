@@ -14,6 +14,7 @@
   <p>
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
     [LinkedIn]: https://www.linkedin.com/in/SteveAguilar01
+  </p>
 
 <!--
 **SteveAguilar01/SteveAguilar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
