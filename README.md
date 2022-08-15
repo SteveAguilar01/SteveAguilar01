@@ -11,11 +11,10 @@
   - CompTIA SY0-601 Security+ CE
   
 <h4>🤳 Connect with me:</h4>
-  <p>
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
-    [LinkedIn]: https://www.linkedin.com/in/SteveAguilar01
-  </p>
 
+- <img src="https://i.stack.imgur.com/gVE0j.png"> - [Linkedin](https://www.linkedin.com/in/SteveAguilar01)
+  
+    
 <!--
 **SteveAguilar01/SteveAguilar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
